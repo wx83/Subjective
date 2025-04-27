@@ -14,13 +14,13 @@ Note: Please select Version A on the first question of the survery. Thanks!
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_clip_rank/gpt_clip_rank_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/-A8qdoRJbPI/gpt_cite_nn.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_transformer_beamsearch/gpt_transformer_beamsearch_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/-A8qdoRJbPI/gpt_closest.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
