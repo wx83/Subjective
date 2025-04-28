@@ -275,10 +275,3 @@ Here is a real teaser for your reference.
     </td>
   </tr>
 </table>
-
-
-# Example of Second Stage Retrieval
-Contents
-A:
-B:
-C:
