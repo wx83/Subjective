@@ -1,5 +1,5 @@
 # Introduction
-In this test, we are intersted in the performance of LLM generated script for teaser and the performance of our generated teaser.
+In this test, we are intersted in the performance of our video insertion as well as the general generated teaser
 
 Note: Please select Version A on the first question of the survery. Thanks!
 
