@@ -277,8 +277,3 @@ Here is a real teaser for your reference.
 </table>
 
 
-# Example of Second Stage Retrieval
-Contents
-A:
-B:
-C:
