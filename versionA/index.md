@@ -4,13 +4,30 @@ In this test, we are intersted in the performance of our video insertion as well
 Note: Please select Version A on the first question of the survery. Thanks!
 
 Here is a real teaser for your reference.
-
-# Section 0:
-<!-- videos_transcription.md -->
-
 <table>
   <tr>
-    <!-- Left: transcription chunk -->
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/real/7b0ApApAqbg.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td style="text-align: center;">
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/real/Dy8ogOaKk4Y.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+</table>
+
+# Section 0:
+<table>
+  <tr>
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
       <strong>Transcription Chunk:</strong><br>
       Narration: Gemstones are big business.,<br><br>
@@ -108,28 +125,6 @@ Here is a real teaser for your reference.
   </tr>
   <tr>
 </table>
-
-<table>
-  <tr>
-    <td style="text-align: center;"><strong>Sample 1</strong></td>
-    <td style="text-align: center;"><strong>Sample 2</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/real/7b0ApApAqbg.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td style="text-align: center;">
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/real/Dy8ogOaKk4Y.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-</table>
-
 
 # Section 1:
 

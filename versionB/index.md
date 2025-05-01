@@ -27,8 +27,8 @@ Here is a real teaser for your reference.
 </table>
 
 # Section 0 :
+<table>
   <tr>
-    <!-- Left: transcription chunk -->
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
       <strong>Transcription Chunk:</strong><br>
       Narration: I'm traveling on Japan's first luxury train, the Seven Stars.,<br><br>
@@ -136,6 +136,7 @@ Here is a real teaser for your reference.
     </td>
   </tr>
   <tr>
+</table>
 
 # Section 1:
 
