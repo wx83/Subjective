@@ -58,15 +58,15 @@ Here is a real teaser for your reference.
   <tr>
     <td style="text-align: center;"><strong>Sample 4</strong></td>
     <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
+    <!-- <td style="text-align: center;"><strong>Sample 6</strong></td> -->
   </tr>
   <tr>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/llama_quote_random.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/teasergen.mp4" type="video/mp4">
@@ -112,15 +112,15 @@ Here is a real teaser for your reference.
   <tr>
     <td style="text-align: center;"><strong>Sample 4</strong></td>
     <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
+    <!-- <td style="text-align: center;"><strong>Sample 6</strong></td> -->
   </tr>
   <tr>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/llama_quote_random.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/teasergen.mp4" type="video/mp4">
