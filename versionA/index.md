@@ -75,7 +75,7 @@ Here is a real teaser for your reference.
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/extractive.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -129,7 +129,7 @@ Here is a real teaser for your reference.
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/extractive.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -183,7 +183,7 @@ Here is a real teaser for your reference.
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/rslUfl6OsV4/extractive.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/rslUfl6OsV4/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -237,7 +237,7 @@ Here is a real teaser for your reference.
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/extractive.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -292,7 +292,7 @@ Here is a real teaser for your reference.
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/wZORPVmXN7k/extractive.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/wZORPVmXN7k/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
