@@ -30,7 +30,7 @@ Here is a real teaser for your reference.
 <table>
   <tr>
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
-      <strong>Transcription Chunk:</strong><br>
+      <strong>Title: A train ride into Japan's past</strong><br><br>
       Narration: I'm traveling on Japan's first luxury train, the Seven Stars.,<br><br>
       Narration: I've come all the way to southern Japan to experience it.<br><br>
       Narration: And the most coveted rose quartz comes from Madagascar.<br><br>
@@ -42,8 +42,8 @@ Here is a real teaser for your reference.
       Narration: I want to know what's different., <br><br>
       Narrtion: I want to know why it's like that.,<br><br>
       Narrtion: I want to know why it's different from the rest of Japan.,<br><br>
-      Interview: A <br><br>
-      Interview: B <br><br>
+       <strong>Interview: A </strong><br><br>
+       <strong>Interview: B  </strong><br><br>
     </td>
     <!-- Right: four sub-chunks A, B, C, D -->
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
@@ -52,16 +52,24 @@ Here is a real teaser for your reference.
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
             <strong>Interview A</strong><br>
-          Sample 1: Finally, Japan's first modern luxury train is readied for departure, cleaned by hand before each trip to make the paint resemble a dark mirror."<br><br>
-           Sample 2: Green tea actually used to be more of a delicacy. Nowadays, much larger quantities are being churned out because the tea used to be harvested by hand, meaning that only relatively low volumes could be produced. It was thus a highly valued good that, of course, came at a price to match."<br><br>
-           Sample 3: Passengers receive a detailed explanation about how to eat what. It's a welcome break from the hustle of everyday Japanese life.<br><br>
+          Sample 1: <br>
+          Finally, Japan's first modern luxury train is readied for departure, cleaned by hand before each trip to make the paint resemble a dark mirror."<br><br>
+           Sample 2: <br>
+           Green tea actually used to be more of a delicacy. Nowadays, much larger quantities are being churned out because the tea used to be harvested by hand, meaning that only relatively low volumes could be produced. It was thus a highly valued good that, of course, came at a price to match."<br><br>
+           Sample 3:<br>
+            Passengers receive a detailed explanation about how to eat what. It's a welcome break from the hustle of everyday Japanese life.<br><br>
           </td>
+                </tr>
+                    <tr>
           <!-- visual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
             <strong>Interview B:</strong><br>
-          Sample 1: "It's nearly time for departure, and the train doesn't simply get whistled off."<br><br>
-          Sample 2: Passengers receive a detailed explanation about how to eat what. It's a welcome break from the hustle of everyday Japanese life.<br><br>
-          Sample 3: I like the design and how it draws so many guests to our area, the city of Kanzaki in Saga Prefecture."<br><br>
+          Sample 1: <br>
+          "It's nearly time for departure, and the train doesn't simply get whistled off."<br><br>
+          Sample 2: <br>
+          Passengers receive a detailed explanation about how to eat what. It's a welcome break from the hustle of everyday Japanese life.<br><br>
+          Sample 3: <br>
+          I like the design and how it draws so many guests to our area, the city of Kanzaki in Saga Prefecture."<br><br>
           </td>
         </tr>
       </table>
@@ -71,10 +79,10 @@ Here is a real teaser for your reference.
     <tr>
     <!-- Left: transcription chunk -->
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
-      <strong>Transcription Chunk:</strong><br>
+      <strong>Title: *N Sync vs Backstreet Boys | The Greatest Rivalries of the 90's (Full Episode) | Rewind the 90's</strong><br><br>
       Narration: New York, 1990,<br><br>
       Narration: Tabloid media, late-night TV, and entertainment are in a state of flux..<br><br>
-      Interview: C <br><br>
+       <strong>Interview: C  </strong><br><br>
       Narration: Cable television, the internet, and Y2K are on the horizon.,<br><br>
       Narration: What made America come to a halt in the mid-90s?,.<br><br>
       Narration: What was going on under the spotlight?,.<br><br>
@@ -86,14 +94,12 @@ Here is a real teaser for your reference.
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
             <strong>Interview C: </strong><br>
-            Sample 1:The late night wars are about to begin in earnest on American television. So it became a decade of public feuds.<br><br>
-            Sample 2: It's going to be interesting to see what happens with this one because, you know, these are big competitive groups."<br><br>
-          Sample 3: The sort of supermarket tabloid that had been part of the culture for decades moved to television.<br><br>
-          </td>
-          <!-- visual -->
-          <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Sample 2:</strong><br>
-          C: It's going to be interesting to see what happens with this one because, you know, these are big competitive groups."<br><br>
+            Sample 1:<br>
+            The late night wars are about to begin in earnest on American television. So it became a decade of public feuds.<br><br>
+            Sample 2: <br>
+            It's going to be interesting to see what happens with this one because, you know, these are big competitive groups."<br><br>
+          Sample 3: <br>
+          The sort of supermarket tabloid that had been part of the culture for decades moved to television.<br><br>
           </td>
         </tr>
       </table>
@@ -108,8 +114,8 @@ Here is a real teaser for your reference.
       Narration: After weeks of speculation, Saudi Arabia finally admitted that he had been murdered at the consulate,<br><br>
       Narration:15 days later, the Saudi government released a tape of the killing.<br><br>
       Narration: But it has yet to identify the murderers.,<br><br>
-      Interview: D <br><br>
-      Interview: E <br><br>
+       <strong>Interview: D </strong> <br><br>
+       <strong>Interview: E  </strong><br><br>
       Narration: What made America come to a halt in the mid-90s?,.<br><br>
       Narration: What was going on under the spotlight?,.<br><br>
     </td>
@@ -120,16 +126,24 @@ Here is a real teaser for your reference.
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
             <strong>Interview D: </strong><br>
-            Sample 1:She said Cemal had entered the consulate five hours earlier and still hadn't come out.<br><br>
-            Sample 2: killing, dismembering his body. There needs to be some consequence."<br><br>
-            Sample 3: "Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
+            Sample 1:<br>
+            She said Cemal had entered the consulate five hours earlier and still hadn't come out.<br><br>
+            Sample 2: <br>
+            killing, dismembering his body. There needs to be some consequence."<br><br>
+            Sample 3: <br>
+            "Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
           </td>
+                </tr>
+                      <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
             <strong>Interview E: </strong><br>
-            Sample 1:Jamal knows the Saudi regime very well. He has been there. He has been serving in the embassy in London, the Saudi embassy in Washington. He was the editor of Al-Watan newspaper. And I think his knowledge of the regime added credibility to his profession as a journalist when he spoke out."<br><br>
-            Sample 2: Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
-            Sample 3: spoke with the king of Saudi Arabia. The king firmly denied any knowledge of it. He didn't really know. Maybe — I don't want to get into his mind, but it sounded to me like maybe these could have been rogue killers."<br><br>
+            Sample 1:<br>
+            Jamal knows the Saudi regime very well. He has been there. He has been serving in the embassy in London, the Saudi embassy in Washington. He was the editor of Al-Watan newspaper. And I think his knowledge of the regime added credibility to his profession as a journalist when he spoke out."<br><br>
+            Sample 2: <br>
+            Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
+            Sample 3: <br>
+            spoke with the king of Saudi Arabia. The king firmly denied any knowledge of it. He didn't really know. Maybe — I don't want to get into his mind, but it sounded to me like maybe these could have been rogue killers."<br><br>
           </td>
         </tr>
       </table>
