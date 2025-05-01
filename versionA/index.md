@@ -55,7 +55,6 @@ Here is a real teaser for your reference.
             Sample 1 : My name is Sis. I'm 20 years old.<br><br>
             Sample 2: "Do you think the companies who sell these products, these processed stones in Germany, do they know, can they know, where the stones are from?".<br><br>
             Sample 3: "No, I have good wholesalers in Germany who have contact in those countries. For example, this rose quartz is high-quality rose quartz from Madagascar, cut in Madagascar. But you should know that the conditions there are very, very poor. The people are bearers or shepherds by profession. There's no education system like ours. People have to start hauling stones at the age of 14. That's their job.<br><br>
-            D: Metal?<br><br>
           </td>
           <!-- visual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
