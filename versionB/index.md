@@ -1,9 +1,10 @@
 # Introduction
-In this test, we are intersted in the performance of our video insertion as well as the general generated teaser
 
-Note: Please select Version B on the first question of the survery. Thanks!
+In this test, we are intersted in the performance of our video insertion as well as the general generated teaser. 
 
-Here is a real teaser for your reference.
+**Note: Please select Version B on the first question of the survery. Thanks!**
+
+For your reference, please find two real-world teaser examples below to give you a clearer sense of their typical format and style.
 
 <table>
   <tr>
@@ -26,7 +27,9 @@ Here is a real teaser for your reference.
   </tr>
 </table>
 
-# Section 1 :
+# Section 1:
+> In the following section, you’ll see, for each interview position, the narration context on the left and the generated sample on the right (matched by color). Please evaluate whether each sample can be seamlessly inserted at its corresponding point in the narration and whether it effectively supports the surrounding claim.
+
 <table>
   <tr>
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
@@ -42,14 +45,14 @@ Here is a real teaser for your reference.
       Narration: I want to know what's different., <br><br>
       Narrtion: I want to know why it's like that.,<br><br>
       Narrtion: I want to know why it's different from the rest of Japan.,<br><br>
-       <strong>Interview: A </strong><br><br>
-       <strong>Interview: B  </strong><br><br>
+      <span style="color: blue; font-weight: bold">Interview: A</span><br><br>
+      <span style="color: green; font-weight: bold">Interview: B</span><br><br>
     </td>
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
       <table width="100%" style="border-collapse:collapse;">
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview A</strong><br>
+      <span style="color: blue; font-weight: bold">Interview: A</span><br><br>
           Sample 1: <br>
           Finally, Japan's first modern luxury train is readied for departure, cleaned by hand before each trip to make the paint resemble a dark mirror."<br><br>
            Sample 2: <br>
@@ -60,7 +63,7 @@ Here is a real teaser for your reference.
                 </tr>
                     <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview B:</strong><br>
+      <span style="color: green; font-weight: bold">Interview: B</span><br><br>
           Sample 1: <br>
           "It's nearly time for departure, and the train doesn't simply get whistled off."<br><br>
           Sample 2: <br>
@@ -78,7 +81,7 @@ Here is a real teaser for your reference.
       <strong>Title: *N Sync vs Backstreet Boys | The Greatest Rivalries of the 90's (Full Episode) | Rewind the 90's</strong><br><br>
       Narration: New York, 1990,<br><br>
       Narration: Tabloid media, late-night TV, and entertainment are in a state of flux..<br><br>
-       <strong>Interview: C  </strong><br><br>
+      <span style="color: orange; font-weight: bold">Interview: C</span><br><br>
       Narration: Cable television, the internet, and Y2K are on the horizon.,<br><br>
       Narration: What made America come to a halt in the mid-90s?,.<br><br>
       Narration: What was going on under the spotlight?,.<br><br>
@@ -87,7 +90,7 @@ Here is a real teaser for your reference.
       <table width="100%" style="border-collapse:collapse;">
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview C: </strong><br>
+      <span style="color: orange; font-weight: bold">Interview: C</span><br><br>
             Sample 1:<br>
             The late night wars are about to begin in earnest on American television. So it became a decade of public feuds.<br><br>
             Sample 2: <br>
@@ -101,14 +104,14 @@ Here is a real teaser for your reference.
   </tr>
     <tr>
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
-      <strong>Transcription Chunk:</strong><br>
+      <strong>Title: The murder of Jamal Khashoggi </strong><br>
       Narration: Journalist Jamal Khashoggi disappeared in Istanbul on October 2nd, 2018,<br><br>
       Narration: He had been invited to the Saudi consulate there to pick up documents for his upcoming wedding.,<br><br>
       Narration: After weeks of speculation, Saudi Arabia finally admitted that he had been murdered at the consulate,<br><br>
-      Narration:15 days later, the Saudi government released a tape of the killing.<br><br>
+      Narration: 15 days later, the Saudi government released a tape of the killing.<br><br>
       Narration: But it has yet to identify the murderers.,<br><br>
-       <strong>Interview: D </strong> <br><br>
-       <strong>Interview: E  </strong><br><br>
+      <span style="color: purple; font-weight: bold">Interview: D</span><br><br>
+      <span style="color: yellow; font-weight: bold">Interview: E</span><br><br>
       Narration: What made America come to a halt in the mid-90s?,.<br><br>
       Narration: What was going on under the spotlight?,.<br><br>
     </td>
@@ -117,7 +120,7 @@ Here is a real teaser for your reference.
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
-            <strong>Interview D: </strong><br>
+      <span style="color: purple; font-weight: bold">Interview: D</span><br><br>
             Sample 1:<br>
             She said Cemal had entered the consulate five hours earlier and still hadn't come out.<br><br>
             Sample 2: <br>
@@ -129,7 +132,7 @@ Here is a real teaser for your reference.
                       <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
-            <strong>Interview E: </strong><br>
+      <span style="color: yellow; font-weight: bold">Interview: E</span><br><br>
             Sample 1:<br>
             Jamal knows the Saudi regime very well. He has been there. He has been serving in the embassy in London, the Saudi embassy in Washington. He was the editor of Al-Watan newspaper. And I think his knowledge of the regime added credibility to his profession as a journalist when he spoke out."<br><br>
             Sample 2: <br>
@@ -144,7 +147,8 @@ Here is a real teaser for your reference.
   <tr>
 </table>
 
-# Section 1:
+# Section 2:
+> In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, engagingness, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, how captivating the sample is, and how authentic or believable it feels to be a teaser.
 
 <table>
   <tr>
@@ -155,19 +159,19 @@ Here is a real teaser for your reference.
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/agij_IxGjCI/gpt_cite_nn.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionB/agij_IxGjCI/gpt_closest.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/agij_IxGjCI/llama_quote_mv.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/agij_IxGjCI/a2summ.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionB/agij_IxGjCI/gpt_cite_nn.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -192,14 +196,15 @@ Here is a real teaser for your reference.
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/agij_IxGjCI/a2summ.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/agij_IxGjCI/llama_quote_mv.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
   </tr>
 </table>
 
-# Section 2:
+# Section 3:
+> In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, engagingness, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, how captivating the sample is, and how authentic or believable it feels to be a teaser.
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -209,13 +214,13 @@ Here is a real teaser for your reference.
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/eAIKvD_gLJo/gpt_cite_nn.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/eAIKvD_gLJo/gpt_closest.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/eAIKvD_gLJo/gpt_closest.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/eAIKvD_gLJo/gpt_cite_nn.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -240,20 +245,22 @@ Here is a real teaser for your reference.
     </td> -->
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/eAIKvD_gLJo/teasergen.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/eAIKvD_gLJo/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/eAIKvD_gLJo/a2summ.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/eAIKvD_gLJo/teasergen.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
   </tr>
 </table>
 
-# Section 3
+# Section 4:
+> In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, engagingness, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, how captivating the sample is, and how authentic or believable it feels to be a teaser.
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -263,13 +270,13 @@ Here is a real teaser for your reference.
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/FFJb0M-cur0/gpt_cite_nn.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/FFJb0M-cur0/gpt_closest.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/FFJb0M-cur0/gpt_closest.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/FFJb0M-cur0/gpt_cite_nn.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -294,20 +301,22 @@ Here is a real teaser for your reference.
     </td> -->
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/FFJb0M-cur0/teasergen.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/FFJb0M-cur0/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/FFJb0M-cur0/a2summ.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/FFJb0M-cur0/teasergen.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
   </tr>
 </table>
 
-# Section 4:
+# Section 5:
+>In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, engagingness, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, how captivating the sample is, and how authentic or believable it feels to be a teaser.
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -317,19 +326,19 @@ Here is a real teaser for your reference.
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/gpt_cite_nn.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/gpt_closest.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/llama_quote_mv.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/gpt_cite_nn.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+      <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -354,7 +363,7 @@ Here is a real teaser for your reference.
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/a2summ.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/llama_quote_mv.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -362,7 +371,9 @@ Here is a real teaser for your reference.
 </table>
 
 
-# Section 5:
+# Section 6:
+> In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, engagingness, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, how captivating the sample is, and how authentic or believable it feels to be a teaser.
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -372,19 +383,19 @@ Here is a real teaser for your reference.
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/VpK8fpqPJT0/gpt_cite_nn.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionB/VpK8fpqPJT0/gpt_closest.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/VpK8fpqPJT0/llama_quote_mv.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/VpK8fpqPJT0/gpt_cite_nn.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionB/VpK8fpqPJT0/teasergen.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -403,7 +414,7 @@ Here is a real teaser for your reference.
     </td> -->
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/VpK8fpqPJT0/teasergen.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/VpK8fpqPJT0/llama_quote_mv.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>

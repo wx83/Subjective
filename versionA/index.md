@@ -1,9 +1,11 @@
 # Introduction
-In this test, we are intersted in the performance of our video insertion as well as the general generated teaser
 
-Note: Please select Version A on the first question of the survery. Thanks!
+In this test, we are intersted in the performance of our video insertion as well as the general generated teaser. 
 
-Here is a real teaser for your reference.
+**Note: Please select Version A on the first question of the survery. Thanks!**
+
+For your reference, please find two real-world teaser examples below to give you a clearer sense of their typical format and style.
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -26,6 +28,8 @@ Here is a real teaser for your reference.
 </table>
 
 # Section 1:
+> In the following section, you’ll see, for each interview position, the narration context on the left and the generated sample on the right (matched by color). Please evaluate whether each sample can be seamlessly inserted at its corresponding point in the narration and whether it effectively supports the surrounding claim.
+
 <table>
   <tr>
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
@@ -34,14 +38,14 @@ Here is a real teaser for your reference.
       Narration: Rose quartz is especially popular..<br><br>
       Narration: And the most coveted rose quartz comes from Madagascar.<br><br>
       Narration: "But we have reason to ask, is it ethically mined?",<br><br>
-      <strong>Interview: A</strong> <br><br>
+      <span style="color: blue; font-weight: bold">Interview: A</span><br><br>
       Narration: Madagascar is one of the poorest countries in the world.,
       Narration: The majority of its people live in poverty.,<br><br>
-      <strong>Interview: B </strong><br><br>
+      <span style="color: green; font-weight: bold">Interview: B</span><br><br>
       Narration:"Gemstones are a lucrative business, but how are they mined?",<br><br>
-      <strong>Interview: C </strong><br><br>
+      <span style="color: orange; font-weight: bold">Interview: C</span><br><br>
       Narration: Madagascar's gemstone trade is booming.,<br><br>
-      <strong>Interview: D </strong><br><br>
+      <span style="color: purple; font-weight: bold">Interview: D</span><br><br>
       Narration: But how does it really work?,<br><br>
       Narration: We travel to Madagascar to find out., <br><br>
     </td>
@@ -50,7 +54,7 @@ Here is a real teaser for your reference.
       <table width="100%" style="border-collapse:collapse;">
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview A</strong><br>
+      <span style="color: blue; font-weight: bold">Interview: A</span><br><br>
             Sample 1: <br>
             My name is Sis. I'm 20 years old.<br><br>
             Sample 2: <br>
@@ -61,7 +65,7 @@ Here is a real teaser for your reference.
         </tr>
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview B:</strong><br>
+      <span style="color: green; font-weight: bold">Interview: B</span><br><br>
           Sample 1: <br>
           I say, OK, you can take any photos and delete the one with the kids on. That's it. What do you want to see? I will show you what you want to see and don't show you what you don't want to see. That's it."<br><br>
           Sample 2: <br>
@@ -72,7 +76,7 @@ Here is a real teaser for your reference.
         </tr>
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview C:</strong><br>
+      <span style="color: orange; font-weight: bold">Interview: C</span><br><br>
           Sample 1: <br>
           Who buys the most drones from you?<br><br>
           Sample 2:  <br>
@@ -85,7 +89,7 @@ Here is a real teaser for your reference.
         </tr>
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview D:</strong><br>
+      <span style="color: purple; font-weight: bold">Interview: D</span><br><br>
           Sample 1: <br>
           Metal? <br><br>
           Sample 2: <br>
@@ -111,7 +115,7 @@ Here is a real teaser for your reference.
       Narration: It's a clear sign of a failing state.,,<br><br>
       Narration: How has organized crime become so powerful?,,,<br><br>
       Narration: What are the consequences of its spread?,,<br><br>
-      <strong>Interview: E </strong><br><br>
+      <span style="color: yellow; font-weight: bold">Interview: E</span><br><br>
       Narration: We have to fight back., <br><br>
       Narrtion: But how?,<br><br>
       Narrtion: This program will look at the challenge of organized crime and what needs to be done to stop it.,<br><br>
@@ -122,7 +126,7 @@ Here is a real teaser for your reference.
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- text -->
-            <strong>Interview E </strong><br>
+      <span style="color: yellow; font-weight: bold">Interview: E</span><br><br>
             Sample 1: <br>
             We must wage what I have called total war against public enemy number one in the United States, the problem of dangerous drugs."<br><br>
             Sample 2: <br>
@@ -139,6 +143,8 @@ Here is a real teaser for your reference.
 
 
 # Section 2:
+> In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, engagingness, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, how captivating the sample is, and how authentic or believable it feels to be a teaser.
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -193,6 +199,8 @@ Here is a real teaser for your reference.
 </table>
 
 # Section 3
+> In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, engagingness, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, how captivating the sample is, and how authentic or believable it feels to be a teaser.
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -247,6 +255,8 @@ Here is a real teaser for your reference.
 </table>
 
 # Section 4:
+> In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, engagingness, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, how captivating the sample is, and how authentic or believable it feels to be a teaser.
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -301,6 +311,8 @@ Here is a real teaser for your reference.
 </table>
 
 # Section 5:
+>In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, engagingness, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, how captivating the sample is, and how authentic or believable it feels to be a teaser.
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -356,6 +368,8 @@ Here is a real teaser for your reference.
 
 
 # Section 6:
+> In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, engagingness, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, how captivating the sample is, and how authentic or believable it feels to be a teaser.
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
