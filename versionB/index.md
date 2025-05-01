@@ -26,7 +26,7 @@ Here is a real teaser for your reference.
   </tr>
 </table>
 
-# Section 0 :
+# Section 1 :
 <table>
   <tr>
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
@@ -45,12 +45,10 @@ Here is a real teaser for your reference.
        <strong>Interview: A </strong><br><br>
        <strong>Interview: B  </strong><br><br>
     </td>
-    <!-- Right: four sub-chunks A, B, C, D -->
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
       <table width="100%" style="border-collapse:collapse;">
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
-          <!-- random -->
             <strong>Interview A</strong><br>
           Sample 1: <br>
           Finally, Japan's first modern luxury train is readied for departure, cleaned by hand before each trip to make the paint resemble a dark mirror."<br><br>
@@ -61,7 +59,6 @@ Here is a real teaser for your reference.
           </td>
                 </tr>
                     <tr>
-          <!-- visual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
             <strong>Interview B:</strong><br>
           Sample 1: <br>
@@ -77,7 +74,6 @@ Here is a real teaser for your reference.
   </tr>
   <tr>
     <tr>
-    <!-- Left: transcription chunk -->
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
       <strong>Title: *N Sync vs Backstreet Boys | The Greatest Rivalries of the 90's (Full Episode) | Rewind the 90's</strong><br><br>
       Narration: New York, 1990,<br><br>
@@ -87,12 +83,10 @@ Here is a real teaser for your reference.
       Narration: What made America come to a halt in the mid-90s?,.<br><br>
       Narration: What was going on under the spotlight?,.<br><br>
     </td>
-    <!-- Right: four sub-chunks A, B, C, D -->
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
       <table width="100%" style="border-collapse:collapse;">
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
-          <!-- random -->
             <strong>Interview C: </strong><br>
             Sample 1:<br>
             The late night wars are about to begin in earnest on American television. So it became a decade of public feuds.<br><br>
@@ -106,7 +100,6 @@ Here is a real teaser for your reference.
     </td>
   </tr>
     <tr>
-    <!-- Left: transcription chunk -->
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
       <strong>Transcription Chunk:</strong><br>
       Narration: Journalist Jamal Khashoggi disappeared in Istanbul on October 2nd, 2018,<br><br>
@@ -119,7 +112,6 @@ Here is a real teaser for your reference.
       Narration: What made America come to a halt in the mid-90s?,.<br><br>
       Narration: What was going on under the spotlight?,.<br><br>
     </td>
-    <!-- Right: four sub-chunks A, B, C, D -->
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
       <table width="100%" style="border-collapse:collapse;">
         <tr>
