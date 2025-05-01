@@ -26,10 +26,11 @@ Here is a real teaser for your reference.
 </table>
 
 # Section 0:
+
 <table>
   <tr>
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
-      <strong>Transcription Chunk:</strong><br>
+      <strong>Title: The dirty business of beauty</strong><br><br>
       Narration: Gemstones are big business.,<br><br>
       Narration: Rose quartz is especially popular..<br><br>
       Narration: And the most coveted rose quartz comes from Madagascar.<br><br>
@@ -50,13 +51,13 @@ Here is a real teaser for your reference.
       <table width="100%" style="border-collapse:collapse;">
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
-          <!-- random -->
             <strong>Interview A</strong><br>
             Sample 1 : My name is Sis. I'm 20 years old.<br><br>
             Sample 2: "Do you think the companies who sell these products, these processed stones in Germany, do they know, can they know, where the stones are from?".<br><br>
             Sample 3: "No, I have good wholesalers in Germany who have contact in those countries. For example, this rose quartz is high-quality rose quartz from Madagascar, cut in Madagascar. But you should know that the conditions there are very, very poor. The people are bearers or shepherds by profession. There's no education system like ours. People have to start hauling stones at the age of 14. That's their job.<br><br>
           </td>
-          <!-- visual -->
+        </tr>
+        <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
             <strong>Interview B:</strong><br>
           Sample 1: I say, OK, you can take any photos and delete the one with the kids on. That's it. What do you want to see? I will show you what you want to see and don't show you what you don't want to see. That's it."<br><br>
@@ -65,7 +66,6 @@ Here is a real teaser for your reference.
           </td>
         </tr>
         <tr>
-        <!-- textual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
             <strong>Interview C:</strong><br>
           Sample 1: Who buys the most drones from you?<br><br>
@@ -76,7 +76,6 @@ Here is a real teaser for your reference.
           </td>
         </tr>
         <tr>
-        <!-- textual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
             <strong>Interview D:</strong><br>
           Sample 1: Metal? <br><br>
@@ -90,10 +89,9 @@ Here is a real teaser for your reference.
     </td>
   </tr>
   <tr>
-  <tr>
     <!-- Left: transcription chunk -->
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
-      <strong>Transcription Chunk:</strong><br>
+      <strong>Title: Can the global criminal network be destroyed? </strong><br><br>
       Narration: Organized crime is an integral part of modern life.,,<br><br>
       Narration: It's a global industry that has infiltrated almost every facet of life.,<br><br>
       Narration: It's a multi-billion dollar business that has corrupted the justice system, the financial sector and politics.<br><br>
@@ -122,11 +120,11 @@ Here is a real teaser for your reference.
       </table>
     </td>
   </tr>
-  <tr>
 </table>
+
+
 
 # Section 1:
-
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -136,58 +134,10 @@ Here is a real teaser for your reference.
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/gpt_cite_nn.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/teasergen.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/gpt_closest.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/llama_quote_mv.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>Sample 4</strong></td>
-    <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <!-- <td style="text-align: center;"><strong>Sample 6</strong></td> -->
-  </tr>
-  <tr>
-    <!-- <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/llama_quote_random.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td> -->
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/teasergen.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/a2summ.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-</table>
-
-# Section 2:
-<table>
-  <tr>
-    <td style="text-align: center;"><strong>Sample 1</strong></td>
-    <td style="text-align: center;"><strong>Sample 2</strong></td>
-    <td style="text-align: center;"><strong>Sample 3</strong></td>
-  </tr>
-  <tr>
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/gpt_cite_nn.mp4" type="video/mp4">
@@ -196,13 +146,7 @@ Here is a real teaser for your reference.
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/gpt_closest.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/llama_quote_mv.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -221,20 +165,20 @@ Here is a real teaser for your reference.
     </td> -->
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/teasergen.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/gpt_closest.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/a2summ.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/llama_quote_mv.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
   </tr>
 </table>
 
-# Section 3
+# Section 2
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -244,7 +188,7 @@ Here is a real teaser for your reference.
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/rslUfl6OsV4/gpt_cite_nn.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/rslUfl6OsV4/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -279,9 +223,63 @@ Here is a real teaser for your reference.
         Your browser does not support the video tag.
       </video>
     </td>
+      <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionA/rslUfl6OsV4/gpt_cite_nn.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+</table>
+
+# Section 3:
+<table>
+  <tr>
+    <td style="text-align: center;"><strong>Sample 1</strong></td>
+    <td style="text-align: center;"><strong>Sample 2</strong></td>
+    <td style="text-align: center;"><strong>Sample 3</strong></td>
+  </tr>
+  <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/rslUfl6OsV4/a2summ.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/teasergen.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/a2summ.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/llama_quote_mv.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Sample 4</strong></td>
+    <td style="text-align: center;"><strong>Sample 5</strong></td>
+    <!-- <td style="text-align: center;"><strong>Sample 6</strong></td> -->
+  </tr>
+  <tr>
+    <!-- <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/llama_quote_random.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td> -->
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/gpt_cite_nn.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionA/6i2sJwxw5Uc/gpt_closest.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -298,19 +296,19 @@ Here is a real teaser for your reference.
   <tr>
     <td>
       <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/teasergen.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/gpt_cite_nn.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/gpt_closest.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/llama_quote_mv.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -329,13 +327,13 @@ Here is a real teaser for your reference.
     </td> -->
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/teasergen.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/gpt_closest.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/a2summ.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/llama_quote_mv.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -353,12 +351,6 @@ Here is a real teaser for your reference.
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/wZORPVmXN7k/gpt_cite_nn.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/wZORPVmXN7k/gpt_closest.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -366,6 +358,12 @@ Here is a real teaser for your reference.
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/wZORPVmXN7k/llama_quote_mv.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+      <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/Subjective/versionA/wZORPVmXN7k/gpt_cite_nn.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
