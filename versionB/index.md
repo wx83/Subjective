@@ -82,7 +82,7 @@ Here is a real teaser for your reference.
       <strong>Transcription Chunk:</strong><br>
       Narration: New York, 1990,<br><br>
       Narration: Tabloid media, late-night TV, and entertainment are in a state of flux..<br><br>
-      Interview: A <br><br>
+      Interview: C <br><br>
       Narration: Cable television, the internet, and Y2K are on the horizon.,<br><br>
       Narration: What made America come to a halt in the mid-90s?,.<br><br>
       Narration: What was going on under the spotlight?,.<br><br>
@@ -94,19 +94,19 @@ Here is a real teaser for your reference.
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
             <strong>Sample 1: </strong><br>
-            A:The late night wars are about to begin in earnest on American television. So it became a decade of public feuds.<br><br>
+            C:The late night wars are about to begin in earnest on American television. So it became a decade of public feuds.<br><br>
           </td>
           <!-- visual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
             <strong>Sample 2:</strong><br>
-          A: It's going to be interesting to see what happens with this one because, you know, these are big competitive groups."<br><br>
+          C: It's going to be interesting to see what happens with this one because, you know, these are big competitive groups."<br><br>
           </td>
         </tr>
         <tr>
         <!-- textual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
             <strong>Sample 3:</strong><br>
-          A: The sort of supermarket tabloid that had been part of the culture for decades moved to television.<br><br>
+          C: The sort of supermarket tabloid that had been part of the culture for decades moved to television.<br><br>
           </td>
           <td style="border:1px solid #ddd; padding:0.5em;">
           </td>
@@ -123,8 +123,8 @@ Here is a real teaser for your reference.
       Narration: After weeks of speculation, Saudi Arabia finally admitted that he had been murdered at the consulate,<br><br>
       Narration:15 days later, the Saudi government released a tape of the killing.<br><br>
       Narration: But it has yet to identify the murderers.,<br><br>
-      Interview: A <br><br>
-      Interview: B <br><br>
+      Interview: D <br><br>
+      Interview: E <br><br>
       Narration: What made America come to a halt in the mid-90s?,.<br><br>
       Narration: What was going on under the spotlight?,.<br><br>
     </td>
@@ -135,22 +135,22 @@ Here is a real teaser for your reference.
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
             <strong>Sample 1: </strong><br>
-            A:She said Cemal had entered the consulate five hours earlier and still hadn't come out.<br><br>
-            B: Jamal knows the Saudi regime very well. He has been there. He has been serving in the embassy in London, the Saudi embassy in Washington. He was the editor of Al-Watan newspaper. And I think his knowledge of the regime added credibility to his profession as a journalist when he spoke out."<br><br>
+            D:She said Cemal had entered the consulate five hours earlier and still hadn't come out.<br><br>
+            E: Jamal knows the Saudi regime very well. He has been there. He has been serving in the embassy in London, the Saudi embassy in Washington. He was the editor of Al-Watan newspaper. And I think his knowledge of the regime added credibility to his profession as a journalist when he spoke out."<br><br>
           </td>
           <!-- visual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
             <strong>Sample 2:</strong><br>
-          A: killing, dismembering his body. There needs to be some consequence."<br><br>
-          B: Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
+          D: killing, dismembering his body. There needs to be some consequence."<br><br>
+          E: Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
           </td>
         </tr>
         <tr>
         <!-- textual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
             <strong>Sample 3:</strong><br>
-          A: "Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
-          B: spoke with the king of Saudi Arabia. The king firmly denied any knowledge of it. He didn't really know. Maybe — I don't want to get into his mind, but it sounded to me like maybe these could have been rogue killers."<br><br>
+          D: "Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
+          E: spoke with the king of Saudi Arabia. The king firmly denied any knowledge of it. He didn't really know. Maybe — I don't want to get into his mind, but it sounded to me like maybe these could have been rogue killers."<br><br>
           </td>
           <td style="border:1px solid #ddd; padding:0.5em;">
           </td>

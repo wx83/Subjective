@@ -77,7 +77,7 @@ Here is a real teaser for your reference.
       Narration: It's a clear sign of a failing state.,,<br><br>
       Narration: How has organized crime become so powerful?,,,<br><br>
       Narration: What are the consequences of its spread?,,<br><br>
-      Interview: A <br><br>
+      Interview: E <br><br>
       Narration: We have to fight back., <br><br>
       Narrtion: But how?,<br><br>
       Narrtion: This program will look at the challenge of organized crime and what needs to be done to stop it.,<br><br>
@@ -89,19 +89,19 @@ Here is a real teaser for your reference.
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- text -->
             <strong>Sample 1: </strong><br>
-            A: We must wage what I have called total war against public enemy number one in the United States, the problem of dangerous drugs."<br><br>
+            E: We must wage what I have called total war against public enemy number one in the United States, the problem of dangerous drugs."<br><br>
           </td>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- visual -->
             <strong>Sample 2:</strong><br>
-          A: If we don't even make the effort to recognize this system, to shine a light on it and understand it, then we won't be able to fight it with any precision."<br><br>
+          E: If we don't even make the effort to recognize this system, to shine a light on it and understand it, then we won't be able to fight it with any precision."<br><br>
           </td>
         </tr>
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
             <strong>Sample 3</strong><br>
-          A: Hezbollah plays the long game. They're patient, much like Al-Qaeda, and are likely going to take their time to pick and choose their spots where they feel like they can have maximum impact. At the end of the day, their raison d'etre, right, is terrorism."<br><br>
+          E: Hezbollah plays the long game. They're patient, much like Al-Qaeda, and are likely going to take their time to pick and choose their spots where they feel like they can have maximum impact. At the end of the day, their raison d'etre, right, is terrorism."<br><br>
           </td>
           <td style="border:1px solid #ddd; padding:0.5em;">
           </td>
