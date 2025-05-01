@@ -25,7 +25,7 @@ Here is a real teaser for your reference.
   </tr>
 </table>
 
-# Section 0:
+# Section 1:
 <table>
   <tr>
     <td width="50%" valign="top" style="border:1px solid #ccc; padding:1em;">
@@ -138,7 +138,7 @@ Here is a real teaser for your reference.
 
 
 
-# Section 1:
+# Section 2:
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -192,7 +192,7 @@ Here is a real teaser for your reference.
   </tr>
 </table>
 
-# Section 2
+# Section 3
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -246,7 +246,7 @@ Here is a real teaser for your reference.
   </tr>
 </table>
 
-# Section 3:
+# Section 4:
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -300,7 +300,7 @@ Here is a real teaser for your reference.
   </tr>
 </table>
 
-# Section 4:
+# Section 5:
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -355,7 +355,7 @@ Here is a real teaser for your reference.
 </table>
 
 
-# Section 5:
+# Section 6:
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
