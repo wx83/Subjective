@@ -164,17 +164,17 @@ Here is a real teaser for your reference.
     </td>
   </tr>
   <tr>
+    <!-- <td style="text-align: center;"><strong>Sample 4</strong></td> -->
     <td style="text-align: center;"><strong>Sample 4</strong></td>
     <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
   </tr>
   <tr>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/rslUfl6OsV4/llama_quote_random.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/rslUfl6OsV4/teasergen.mp4" type="video/mp4">
@@ -220,15 +220,15 @@ Here is a real teaser for your reference.
   <tr>
     <td style="text-align: center;"><strong>Sample 4</strong></td>
     <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
+    <!-- <td style="text-align: center;"><strong>Sample 6</strong></td> -->
   </tr>
   <tr>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/llama_quote_random.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/teasergen.mp4" type="video/mp4">
@@ -275,15 +275,15 @@ Here is a real teaser for your reference.
   <tr>
     <td style="text-align: center;"><strong>Sample 4</strong></td>
     <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
+    <!-- <td style="text-align: center;"><strong>Sample 6</strong></td> -->
   </tr>
   <tr>
-    <td>
+    <!-- <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/wZORPVmXN7k/llama_quote_random.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-    </td>
+    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/wZORPVmXN7k/teasergen.mp4" type="video/mp4">
