@@ -34,38 +34,29 @@ Here is a real teaser for your reference.
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
-            <strong>Interview A</strong><br>
-            Sample 1 : My name is Sis. I'm 20 years old.<br><br>
-            Sample 2: "Do you think the companies who sell these products, these processed stones in Germany, do they know, can they know, where the stones are from?".<br><br>
-            Sample 3: "No, I have good wholesalers in Germany who have contact in those countries. For example, this rose quartz is high-quality rose quartz from Madagascar, cut in Madagascar. But you should know that the conditions there are very, very poor. The people are bearers or shepherds by profession. There's no education system like ours. People have to start hauling stones at the age of 14. That's their job.<br><br>
+            <strong>Sample 1</strong><br>
+            A: My name is Sis. I'm 20 years old.<br><br>
+            B: I say, OK, you can take any photos and delete the one with the kids on. That's it. What do you want to see? I will show you what you want to see and don't show you what you don't want to see. That's it.<br><br>
+            C: Who buys the most drones from you?<br><br>
             D: Metal?<br><br>
           </td>
           <!-- visual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview B:</strong><br>
-          Sample 1: I say, OK, you can take any photos and delete the one with the kids on. That's it. What do you want to see? I will show you what you want to see and don't show you what you don't want to see. That's it."<br><br>
-          Sample 2: It's absolutely forbidden. But because the families don't earn enough, children have to help their parents. It's not OK. It shouldn't be OK.<br><br>
-          Sample 3: No, I have good wholesalers in Germany who have contact in those countries. For example, this rose quartz is high-quality rose quartz from Madagascar, cut in Madagascar. But you should know that the conditions there are very, very poor. The people are bearers or shepherds by profession. There's no education system like ours. People have to start hauling stones at the age of 14. That's their job <br><br>
+            <strong>Sample 2:</strong><br>
+          A: "Do you think the companies who sell these products, these processed stones in Germany, do they know, can they know, where the stones are from?"<br><br>
+          B: It's absolutely forbidden. But because the families don't earn enough, children have to help their parents. It's not OK. It shouldn't be OK.<br><br>
+          C: I'm sure they don't know, because I think German traders buy in bulk from China. If asked, Chinese sellers probably wouldn't say that the stones are from Madagascar, because they would be afraid that big customers from Germany would come here directly. So I think they don't know. I'm sure they don't know. <br><br>
+          D: This is what it looks like when it's been polished by machines. This is our product after it's been mined here. Here we just dig it up, and then people abroad make something like this. Is that gold around it? That's metal. <br><br>
           </td>
         </tr>
         <tr>
         <!-- textual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview C:</strong><br>
-          Sample 1: Who buys the most drones from you?<br><br>
-          Sample 2:  I'm sure they don't know, because I think German traders buy in bulk from China. If asked, Chinese sellers probably wouldn't say that the stones are from Madagascar, because they would be afraid that big customers from Germany would come here directly. So I think they don't know. I'm sure they don't know.<br><br>
-          Sample 3: ""I'm sure they don't know, because I think German traders buy in bulk from China. If asked, Chinese sellers probably wouldn't say that the stones are from Madagascar, because they would be afraid that big customers from Germany would come here directly. So I think they don't know. I'm sure they don't know.<br><br>
-          </td>
-          <td style="border:1px solid #ddd; padding:0.5em;">
-          </td>
-        </tr>
-        <tr>
-        <!-- textual -->
-          <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview D:</strong><br>
-          Sample 1: Metal? <br><br>
-          Sample 2:  This is what it looks like when it's been polished by machines. This is our product after it's been mined here. Here we just dig it up, and then people abroad make something like this. Is that gold around it? That's metal..<br><br>
-          Sample 3: "No, I have good wholesalers in Germany who have contact in those countries. For example, this rose quartz is high-quality rose quartz from Madagascar, cut in Madagascar. But you should know that the conditions there are very, very poor. The people are bearers or shepherds by profession. There's no education system like ours. People have to start hauling stones at the age of 14. That's their job <br><br>
+            <strong>Sample 3:</strong><br>
+          A: "No, I have good wholesalers in Germany who have contact in those countries. For example, this rose quartz is high-quality rose quartz from Madagascar, cut in Madagascar. But you should know that the conditions there are very, very poor. The people are bearers or shepherds by profession. There's no education system like ours. People have to start hauling stones at the age of 14. That's their job."<br><br>
+          B: "No, I have good wholesalers in Germany who have contact in those countries. For example, this rose quartz is high-quality rose quartz from Madagascar, cut in Madagascar. But you should know that the conditions there are very, very poor. The people are bearers or shepherds by profession. There's no education system like ours. People have to start hauling stones at the age of 14. That's their job."<br><br>
+          C: "I'm sure they don't know, because I think German traders buy in bulk from China. If asked, Chinese sellers probably wouldn't say that the stones are from Madagascar, because they would be afraid that big customers from Germany would come here directly. So I think they don't know. I'm sure they don't know."<br><br>
+          D: "No, I have good wholesalers in Germany who have contact in those countries. For example, this rose quartz is high-quality rose quartz from Madagascar, cut in Madagascar. But you should know that the conditions there are very, very poor. The people are bearers or shepherds by profession. There's no education system like ours. People have to start hauling stones at the age of 14. That's their job."<br><br>
           </td>
           <td style="border:1px solid #ddd; padding:0.5em;">
           </td>
@@ -97,10 +88,22 @@ Here is a real teaser for your reference.
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- text -->
-            <strong>Interview E </strong><br>
-            Sample 1: We must wage what I have called total war against public enemy number one in the United States, the problem of dangerous drugs."<br><br>
-            Sample 2: If we don't even make the effort to recognize this system, to shine a light on it and understand it, then we won't be able to fight it with any precision."<br><br>
-            Sample 3: Hezbollah plays the long game. They're patient, much like Al-Qaeda, and are likely going to take their time to pick and choose their spots where they feel like they can have maximum impact. At the end of the day, their raison d'etre, right, is terrorism."<br><br>
+            <strong>Sample 1: </strong><br>
+            E: We must wage what I have called total war against public enemy number one in the United States, the problem of dangerous drugs."<br><br>
+          </td>
+          <td style="border:1px solid #ddd; padding:0.5em;">
+          <!-- visual -->
+            <strong>Sample 2:</strong><br>
+          E: If we don't even make the effort to recognize this system, to shine a light on it and understand it, then we won't be able to fight it with any precision."<br><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="border:1px solid #ddd; padding:0.5em;">
+          <!-- random -->
+            <strong>Sample 3</strong><br>
+          E: Hezbollah plays the long game. They're patient, much like Al-Qaeda, and are likely going to take their time to pick and choose their spots where they feel like they can have maximum impact. At the end of the day, their raison d'etre, right, is terrorism."<br><br>
+          </td>
+          <td style="border:1px solid #ddd; padding:0.5em;">
           </td>
         </tr>
       </table>

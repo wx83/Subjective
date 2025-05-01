@@ -51,17 +51,25 @@ Here is a real teaser for your reference.
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
-            <strong>Interview A</strong><br>
-          Sample 1: Finally, Japan's first modern luxury train is readied for departure, cleaned by hand before each trip to make the paint resemble a dark mirror."<br><br>
-           Sample 2: Green tea actually used to be more of a delicacy. Nowadays, much larger quantities are being churned out because the tea used to be harvested by hand, meaning that only relatively low volumes could be produced. It was thus a highly valued good that, of course, came at a price to match."<br><br>
-           Sample 3: Passengers receive a detailed explanation about how to eat what. It's a welcome break from the hustle of everyday Japanese life.<br><br>
+            <strong>Sample 1: </strong><br>
+            A: Finally, Japan's first modern luxury train is readied for departure, cleaned by hand before each trip to make the paint resemble a dark mirror."<br><br>
+            B: "It's nearly time for departure, and the train doesn't simply get whistled off."<br><br>
           </td>
           <!-- visual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
-            <strong>Interview B:</strong><br>
-          Sample 1: "It's nearly time for departure, and the train doesn't simply get whistled off."<br><br>
-          Sample 2: Passengers receive a detailed explanation about how to eat what. It's a welcome break from the hustle of everyday Japanese life.<br><br>
-          Sample 3: I like the design and how it draws so many guests to our area, the city of Kanzaki in Saga Prefecture."<br><br>
+            <strong>Sample 2:</strong><br>
+          A: Green tea actually used to be more of a delicacy. Nowadays, much larger quantities are being churned out because the tea used to be harvested by hand, meaning that only relatively low volumes could be produced. It was thus a highly valued good that, of course, came at a price to match."<br><br>
+          B: Passengers receive a detailed explanation about how to eat what. It's a welcome break from the hustle of everyday Japanese life.<br><br>
+          </td>
+        </tr>
+        <tr>
+        <!-- textual -->
+          <td style="border:1px solid #ddd; padding:0.5em;">
+            <strong>Sample 3:</strong><br>
+          A: Passengers receive a detailed explanation about how to eat what. It's a welcome break from the hustle of everyday Japanese life.<br><br>
+          B: I like the design and how it draws so many guests to our area, the city of Kanzaki in Saga Prefecture."<br><br>
+          </td>
+          <td style="border:1px solid #ddd; padding:0.5em;">
           </td>
         </tr>
       </table>
@@ -85,15 +93,22 @@ Here is a real teaser for your reference.
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
-            <strong>Interview C: </strong><br>
-            Sample 1:The late night wars are about to begin in earnest on American television. So it became a decade of public feuds.<br><br>
-            Sample 2: It's going to be interesting to see what happens with this one because, you know, these are big competitive groups."<br><br>
-          Sample 3: The sort of supermarket tabloid that had been part of the culture for decades moved to television.<br><br>
+            <strong>Sample 1: </strong><br>
+            C:The late night wars are about to begin in earnest on American television. So it became a decade of public feuds.<br><br>
           </td>
           <!-- visual -->
           <td style="border:1px solid #ddd; padding:0.5em;">
             <strong>Sample 2:</strong><br>
           C: It's going to be interesting to see what happens with this one because, you know, these are big competitive groups."<br><br>
+          </td>
+        </tr>
+        <tr>
+        <!-- textual -->
+          <td style="border:1px solid #ddd; padding:0.5em;">
+            <strong>Sample 3:</strong><br>
+          C: The sort of supermarket tabloid that had been part of the culture for decades moved to television.<br><br>
+          </td>
+          <td style="border:1px solid #ddd; padding:0.5em;">
           </td>
         </tr>
       </table>
@@ -119,17 +134,25 @@ Here is a real teaser for your reference.
         <tr>
           <td style="border:1px solid #ddd; padding:0.5em;">
           <!-- random -->
-            <strong>Interview D: </strong><br>
-            Sample 1:She said Cemal had entered the consulate five hours earlier and still hadn't come out.<br><br>
-            Sample 2: killing, dismembering his body. There needs to be some consequence."<br><br>
-            Sample 3: "Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
+            <strong>Sample 1: </strong><br>
+            D:She said Cemal had entered the consulate five hours earlier and still hadn't come out.<br><br>
+            E: Jamal knows the Saudi regime very well. He has been there. He has been serving in the embassy in London, the Saudi embassy in Washington. He was the editor of Al-Watan newspaper. And I think his knowledge of the regime added credibility to his profession as a journalist when he spoke out."<br><br>
+          </td>
+          <!-- visual -->
+          <td style="border:1px solid #ddd; padding:0.5em;">
+            <strong>Sample 2:</strong><br>
+          D: killing, dismembering his body. There needs to be some consequence."<br><br>
+          E: Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
+          </td>
+        </tr>
+        <tr>
+        <!-- textual -->
+          <td style="border:1px solid #ddd; padding:0.5em;">
+            <strong>Sample 3:</strong><br>
+          D: "Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
+          E: spoke with the king of Saudi Arabia. The king firmly denied any knowledge of it. He didn't really know. Maybe — I don't want to get into his mind, but it sounded to me like maybe these could have been rogue killers."<br><br>
           </td>
           <td style="border:1px solid #ddd; padding:0.5em;">
-          <!-- random -->
-            <strong>Interview E: </strong><br>
-            Sample 1:Jamal knows the Saudi regime very well. He has been there. He has been serving in the embassy in London, the Saudi embassy in Washington. He was the editor of Al-Watan newspaper. And I think his knowledge of the regime added credibility to his profession as a journalist when he spoke out."<br><br>
-            Sample 2: Since he was killed, Jabal Khashoggi's body has yet to be found. Saudi Arabia has denied any involvement in the disappearance of Khashoggi."<br><br>
-            Sample 3: spoke with the king of Saudi Arabia. The king firmly denied any knowledge of it. He didn't really know. Maybe — I don't want to get into his mind, but it sounded to me like maybe these could have been rogue killers."<br><br>
           </td>
         </tr>
       </table>
