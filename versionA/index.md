@@ -296,13 +296,13 @@ For your reference, please find two real-world teaser examples below to give you
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/lecture_videos/_yre2uKcj7A/llama_quote_mv_lecture.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/lecture_videos/yre2uKcj7A/llama_quote_mv_lecture.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/lecture_videos/_yre2uKcj7A/teasergen_lecture.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionA/lecture_videos/yre2uKcj7A/teasergen_lecture.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
