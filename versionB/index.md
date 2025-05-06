@@ -28,7 +28,7 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 
-# Section 1:
+# Section 6:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
 **Video Title: Lost at Sea (Full Episode) | Extreme Rescues**
@@ -80,7 +80,7 @@ For your reference, please find two real-world teaser examples below to give you
   </tr>
 </table>
 
-# Section 2
+# Section 7:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
 **Video Title: The apostle comes from Africa — a contemporary passion story**
@@ -132,7 +132,7 @@ For your reference, please find two real-world teaser examples below to give you
   </tr>
 </table>
 
-# Section 3:
+# Section 8:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
 **Video Title: Love & marriage in Egypt and Taiwan – Whose choice is it? | Us & Them**
@@ -184,7 +184,7 @@ For your reference, please find two real-world teaser examples below to give you
   </tr>
 </table>
 
-# Section 4:
+# Section 9:
 >In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
 **Video Title: Archeology – exploring the past with modern technology | DW History Documentary**
@@ -243,7 +243,7 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 
-# Section 5:
+# Section 10:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
 **Video Title: Beyond Death (Full Episode) | The Story of God with Morgan Freeman**
@@ -294,7 +294,7 @@ For your reference, please find two real-world teaser examples below to give you
   </tr>
 </table>
 
-# Section 6:
+# Section 11:
 > In the next section, you will watch five samples, and after each one, please indicate which sample you prefer as a teaser for lecture videos.
 
 ### Sample 1
@@ -422,7 +422,7 @@ For your reference, please find two real-world teaser examples below to give you
   </tr>
 </table>
 
-# Section 7:
+# Section 12:
 > In the next section, you will watch five samples, and after each one, please indicate which sample you prefer as a teaser for news.
 
 ### Sample 1
