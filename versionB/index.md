@@ -121,7 +121,7 @@ For your reference, please find two real-world teaser examples below to give you
     </td>
       <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/o4ah2I8YjkQ/gpt_closest_teaser.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/gpt_closest_teaser.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -409,13 +409,13 @@ For your reference, please find two real-world teaser examples below to give you
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/news_video/msS3u_4co80/news_video_mv.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/news_videos/msS3u_4co80/news_video_mv.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/news_video/msS3u_4co80/teasergen_news.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/news_videos/msS3u_4co80/teasergen_news.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
