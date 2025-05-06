@@ -495,7 +495,7 @@ For your reference, please find two real-world teaser examples below to give you
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/news_videos/usDxkKpjduQ/teasergen_news.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/news_videos/usDxkKpjduQ/teasergen_news.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
