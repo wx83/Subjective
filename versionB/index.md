@@ -94,19 +94,19 @@ For your reference, please find two real-world teaser examples below to give you
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/a2summ.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/gYo-icA2848/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/llama_contents_nn.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/gYo-icA2848/llama_contents_nn.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/llama_quote_mv.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/gYo-icA2848/llama_quote_mv.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -119,13 +119,13 @@ For your reference, please find two real-world teaser examples below to give you
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/teasergen.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/gYo-icA2848/teasergen.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
       <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/o4ah2I8YjkQ/gpt_closest_teaser.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/gYo-icA2848/gpt_closest_teaser.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
