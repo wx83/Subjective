@@ -31,6 +31,8 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 1:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
+**Video Title: Is Parkinson's disease related to pesticide use? | DW Documentary**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -80,6 +82,8 @@ For your reference, please find two real-world teaser examples below to give you
 
 # Section 2
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
+
+**Video Title: documenta 14 - learning from Athens | DW Documentary**
 
 <table>
   <tr>
@@ -131,6 +135,8 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 3:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
+**Video Title: The dirty business of beauty | DW Documentary**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -181,6 +187,8 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 4:
 >In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
+**Video Title: Saving kids from the Mafia in Italy | DW Documentary**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -210,15 +218,8 @@ For your reference, please find two real-world teaser examples below to give you
   <tr>
     <td style="text-align: center;"><strong>Sample 4</strong></td>
     <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <!-- <td style="text-align: center;"><strong>Sample 6</strong></td> -->
   </tr>
   <tr>
-    <!-- <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionA/vyit-1zKsZ4/llama_quote_random.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td> -->
     <td>
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/Subjective/versionA/noo8-_LYIpA/llama_contents_nn.mp4" type="video/mp4">
@@ -237,6 +238,8 @@ For your reference, please find two real-world teaser examples below to give you
 
 # Section 5:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
+
+**Video Title: "Doctors, apps and artificial intelligence - The future of medicine | DW Documentary"**
 
 <table>
   <tr>
@@ -288,6 +291,9 @@ For your reference, please find two real-world teaser examples below to give you
 > In the next section, you will watch five samples, and after each one, please indicate which sample you prefer as a teaser for lecture videos.
 
 ### Sample 1
+
+**Video Title: Anatomy & Physiology Chapter 3 Part C Lecture**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1.A</strong></td>
@@ -310,6 +316,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 2
+
+**Video Title: Oral Medicine | ASA Classification | INBDE**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 2.A</strong></td>
@@ -332,6 +341,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 3
+
+**Video Title: Endocrine System - Pituitary Gland THE MASTER GLAND**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 3.A</strong></td>
@@ -354,6 +366,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 4
+
+**Video Title: CurrentTopicsLecture3Ch3**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 4.A</strong></td>
@@ -376,6 +391,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 5
+
+**Video Title: "Coordinated Representations (Multimodal Machine Learning, Carnegie Mellon University)"**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 5.A</strong></td>
@@ -401,6 +419,9 @@ For your reference, please find two real-world teaser examples below to give you
 > In the next section, you will watch five samples, and after each one, please indicate which sample you prefer as a teaser for news.
 
 ### Sample 1
+
+**Video Title: Nightly News Full Episode**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1.A</strong></td>
@@ -423,6 +444,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 2
+
+**Video Title: Nightly News Full Episode**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 2.A</strong></td>
@@ -445,6 +469,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 3
+
+**Video Title: Nightly News Full Episode**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 3.A</strong></td>
@@ -467,6 +494,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 4
+
+**Video Title: Nightly News Full Episode**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 4.A</strong></td>
@@ -489,6 +519,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 5
+
+**Video Title: Nightly News Full Episode**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 5.A</strong></td>
