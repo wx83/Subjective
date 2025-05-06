@@ -52,9 +52,9 @@ For your reference, please find two real-world teaser examples below to give you
         Your browser does not support the video tag.
       </video>
     </td>
-    <td>
+      <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/khyuH_QfoWU/a2summ.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/khyuH_QfoWU/llama_quote_mv.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -67,7 +67,7 @@ For your reference, please find two real-world teaser examples below to give you
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/Subjective/versionB/khyuH_QfoWU/llama_quote_mv.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/Subjective/versionB/khyuH_QfoWU/a2summ.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
