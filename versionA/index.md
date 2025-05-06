@@ -33,7 +33,7 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 6:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
-**Video Title: Is Parkinson's disease related to pesticide use? | DW Documentary**
+**Video Title: Is Parkinson's disease related to pesticide use?**
 
 <table>
   <tr>
@@ -85,7 +85,7 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 7
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
-**Video Title: documenta 14 - learning from Athens | DW Documentary**
+**Video Title: documenta 14 - learning from Athens**
 
 <table>
   <tr>
@@ -137,7 +137,7 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 8:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
-**Video Title: The dirty business of beauty | DW Documentary**
+**Video Title: The dirty business of beauty**
 
 <table>
   <tr>
@@ -189,7 +189,7 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 9:
 >In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
-**Video Title: Saving kids from the Mafia in Italy | DW Documentary**
+**Video Title: Saving kids from the Mafia in Italy**
 
 <table>
   <tr>
@@ -241,7 +241,7 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 10:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
-**Video Title: "Doctors, apps and artificial intelligence - The future of medicine | DW Documentary"**
+**Video Title: "Doctors, apps and artificial intelligence - The future of medicine**
 
 <table>
   <tr>
