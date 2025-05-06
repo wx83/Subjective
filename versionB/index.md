@@ -31,6 +31,8 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 1:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
+**Video Title: Lost at Sea (Full Episode) | Extreme Rescues**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -80,6 +82,8 @@ For your reference, please find two real-world teaser examples below to give you
 
 # Section 2
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
+
+**Video Title: The apostle comes from Africa — a contemporary passion story**
 
 <table>
   <tr>
@@ -131,6 +135,8 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 3:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
+**Video Title: Love & marriage in Egypt and Taiwan – Whose choice is it? | Us & Them**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -180,6 +186,8 @@ For your reference, please find two real-world teaser examples below to give you
 
 # Section 4:
 >In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
+
+**Video Title: Archeology – exploring the past with modern technology | DW History Documentary**
 
 <table>
   <tr>
@@ -238,6 +246,8 @@ For your reference, please find two real-world teaser examples below to give you
 # Section 5:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
 
+**Video Title: Beyond Death (Full Episode) | The Story of God with Morgan Freeman**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -288,6 +298,9 @@ For your reference, please find two real-world teaser examples below to give you
 > In the next section, you will watch five samples, and after each one, please indicate which sample you prefer as a teaser for lecture videos.
 
 ### Sample 1
+
+**Video Title: Oral Medicine | Antibiotic Prophylaxis | INBDE**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1.A</strong></td>
@@ -310,6 +323,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 2
+
+**Video Title: PSY101 - Conditioning and Learning**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 2.A</strong></td>
@@ -332,6 +348,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 3
+
+**Video Title: Generative Models (Multimodal Machine Learning, Carnegie Mellon University)**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 3.A</strong></td>
@@ -354,6 +373,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 4
+
+**Video Title: Oral Medicine | Bisphosphonates | INBDE**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 4.A</strong></td>
@@ -376,6 +398,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 5
+
+**Video Title: Language Representation, RNN (Multimodal Machine Learning, Carnegie Mellon University)**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 5.A</strong></td>
@@ -401,6 +426,9 @@ For your reference, please find two real-world teaser examples below to give you
 > In the next section, you will watch five samples, and after each one, please indicate which sample you prefer as a teaser for news.
 
 ### Sample 1
+
+**Video Title: Nightly News Full Broadcast**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1.A</strong></td>
@@ -423,6 +451,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 2
+
+**Video Title: Nightly News Full Episode**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 2.A</strong></td>
@@ -445,6 +476,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 3
+
+**Video Title: Nightly News Full Episode**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 3.A</strong></td>
@@ -467,6 +501,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 4
+
+**Video Title: Nightly News Full Episode**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 4.A</strong></td>
@@ -489,6 +526,9 @@ For your reference, please find two real-world teaser examples below to give you
 </table>
 
 ### Sample 5
+
+**Video Title: Nightly News Full Episode**
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 5.A</strong></td>
