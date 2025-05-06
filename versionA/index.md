@@ -27,6 +27,8 @@ For your reference, please find two real-world teaser examples below to give you
   </tr>
 </table>
 
+# Section 1 -- Section 5:
+> Please rate the effectiveness of inserted interviews of in the survey.
 
 # Section 6:
 > In the next section, you will watch five samples and, after each one, rate it on four criteria—coherence, audio–visual alignment, and realness—by considering how smoothly the content flows, how accurately the sound and visuals sync, and how authentic or believable it feels as a teaser. In addition, please evaluate the effectiveness of any inserted interviews.
